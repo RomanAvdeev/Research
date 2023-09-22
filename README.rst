@@ -15,16 +15,23 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Выявление поляризации текстов в новостном потоке
+    :Тип научной работы: НИР
+    :Автор: Роман Артемович Авдеев
+    :Научный руководитель: д.ф.-м.н., Воронцов Константин Вячеславович
+    :Научный консультант(при наличии): Ватолин Алексей
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+В данной работе предлагается способ определения поляризации текстов в новостном потоке.
+Решение основано на методах машинного обучения без учителя, что позволяет работать как с
+малыми, так и с большими наборами текстов. Решается задача разделения множества новостных
+сообщений на кластеры-мнения, выделения отдельных кластеров нейтральных и нерелевантных
+документов. Предложены метрики оценивания качества отсева нерелевантных и нейтральных
+сообщений. Реализована модель, работающая в среднем не хуже, чем разметчики.
+Эксперименты проводились на датасете, состоящем из 30 корпусов новостных сообщений по
+темам «политика» и «происшествия».
 
 Research publications
 ===============================
