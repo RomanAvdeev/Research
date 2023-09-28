@@ -1,0 +1,15 @@
+# Обзор статей
+| # | Название  | Ссылка | Описание |
+| - | --------- | ------ | -------- |
+| 1 | Е.К.Милюта. Языковые модели для обнаружения поляризации общественного мнения в новостоном потоке, 2022. | [link](http://www.machinelearning.ru/wiki/index.php?title=%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5:Miluta22msc.pdf) | Улучшение способа кластеризации новостей об определенном событии, включение семантической близости текстов в модель. |
+| 2 | Большакова Е.И., Воронцов К.В., Ефремова Н.Э., Клышинский Э.С., Лукашевич Н.В., Сапин А.С. Автоматическая обработка текстов на естественном языке и анализ данных, 2017. | [link](https://www.hse.ru/data/2017/08/12/1174382138/NLPandDA_4print.pdf) | Анализ тональности и тематического моделирования текстов, извлечение информации из текстов.|
+| 3 | Д.Г.Фельдман. Комбинирование фактов, семантических ролей и тональных слов в генеративной модели для поиска мнений, 2020. | [link](http://www.machinelearning.ru/wiki/images/b/b9/Feldman18bsc.pdf) | Поиск мнений с применением SPO триплетов, ARTM методики (BigARTM)|
+| 4 | Kajal Yadav. Text Clustering using K-means, 2021. | [link](https://towardsdatascience.com/text-clustering-using-k-means-ec19768aae48) | Практическое применение KMeans на n-граммах для кластеризации текстов. |
+| 5 | Francis Ndiritu. How to Build an NLP Based Emotion Detection Model using Neattext and Scikitlearn, 2021. | [link](https://www.researchgate.net/profile/Chengzhi-Zhang-2/publication/324817301_Automatic_identification_of_cited_text_spans_a_multi-classifier_approach_over_imbalanced_dataset/links/5ae8198a45851588dd7f991d/Automatic-identification-of-cited-text-spans-a-multi-classifier-approach-over-imbalanced-dataset.pdf) | |
+| 6 | Yasir Ali Solangi, Zulfiqar Ali Solangi. Review on Natural Language Processing (NLP) and Its Toolkits for Opinion Mining and Sentiment Analysis, 2018. | [link](https://www.researchgate.net/profile/Moreno-La-Quatra/publication/335079246_Poli2SumCL-SciSumm-19_Identify_Classify_and_Summarize_Cited_Text_Spans_by_means_of_Ensembles_of_Supervised_Models/links/5d4d872d92851cd046afc453/Poli2SumCL-SciSumm-19-Identify-Classify-and-Summarize-Cited-Text-Spans-by-means-of-Ensembles-of-Supervised-Models.pdf) |  |
+| 7 | Federico Pascual. Getting Started with Sentiment Analysis using Python, 2022. | [link](https://aclanthology.org/2021.dravidianlangtech-1.2.pdf) |  |
+| 8 | CY Yam. Emotion Detection and Recognition from Text Using Deep Learning, 2015. | [link](https://arxiv.org/pdf/2006.03866.pdf) |  |
+| 9 | Enrique Amigo, Julio Gonzalo, Javier Artiles, Felisa Verdejo. A comparison of extrinsic clustering evaluation metrics based on formal constraints, 2008. | [link](https://arxiv.org/pdf/1907.10529.pdf) |  |
+| 10 | Estela Saquete, David Tom´as, Paloma Moreda, Patricio Mart´ınez-Barco, Manuel Palomar. Fighting post-truth using natural language processing: A review and open challenges, 2019. | [link](https://arxiv.org/pdf/2104.04630.pdf) |  |
+| 11 | Ajitesh Kumar. Cohen Kappa Score Python Example: Machine Learning, 2022. | [link](https://arxiv.org/pdf/2010.03260.pdf) | |
+
